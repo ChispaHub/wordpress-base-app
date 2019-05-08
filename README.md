@@ -1,12 +1,16 @@
 Wordpress Base App
 =======
 
+Starting structure to develop projects with Wordpress.
+
 ## Requirements
 
 * [Composer](https://getcomposer.org/)
 * [node](https://nodejs.org/)
 
 ## Setup
+
+Clone repository and then within the root directory:
 
 ```shell
 $ composer install
